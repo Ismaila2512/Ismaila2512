@@ -166,10 +166,13 @@ An interactive, high-performance quick-commerce web platform integrating complex
 ### 💠 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ismaila2512&show_icons=true&bg_color=000000&title_color=8a2be2&text_color=ffffff&icon_color=9370DB&border_color=8a2be2&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ismaila2512&theme=radical&background=000000&ring=8a2be2&fire=9370DB&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=000000&hide_border=true" alt="GitHub Streak" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaila2512&layout=compact&theme=radical&bg_color=000000&title_color=8a2be2&text_color=ffffff&border_color=8a2be2&hide_border=true" alt="Top Languages" width="48%" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismaila2512&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ismaila2512&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaila2512&layout=compact&theme=radical)
+
 </div>
 
 ---
@@ -177,7 +180,9 @@ An interactive, high-performance quick-commerce web platform integrating complex
 ### ✨ GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ismaila2512&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" width="100%" />
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ismaila2512&theme=radical&no-bg=true&no-frame=true&margin-w=15)
+
 </div>
 
 ---
