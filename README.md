@@ -167,11 +167,11 @@ An interactive, high-performance quick-commerce web platform integrating complex
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismaila2512&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismaila2512&show_icons=true&theme=radical&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Ismaila2512&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaila2512&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaila2512&layout=compact&theme=radical&cache_seconds=86400)
 
 </div>
 
@@ -181,7 +181,7 @@ An interactive, high-performance quick-commerce web platform integrating complex
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ismaila2512&theme=radical&no-bg=true&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ismaila2512&theme=radical&no-bg=true&no-frame=true&margin-w=15&cache_seconds=86400)
 
 </div>
 
