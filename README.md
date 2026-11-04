@@ -7,7 +7,7 @@
 <br/>
 
 ![Academic](https://img.shields.io/badge/M.Tech_Software_Engineering-Vellore_Institute_of_Technology-8A2BE2?style=for-the-badge&logo=applemusic&logoColor=white) 
-![Location](https://img.shields.io/badge/Bengaluru,-Karnataka_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Bengaluru/Ambur,-Karnataka/Tamil Nadu_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
